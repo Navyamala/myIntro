@@ -29,10 +29,16 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Fronte
 ### **2. Task Manager App(Employment mangaement System)** ✅  
 - A **full-stack task manager** built with **MERN Stack (MongoDB, Express, React, Node.js,Mysql,Html,css)**  
 - Implemented authentication, CRUD operations.  
----
+ The Task Manager App (Employment Management System) is a full-stack web application built using the MERN Stack (MongoDB, Express, React, Node.js), along with 
+ MySQL for managing employee tasks and their related data. This app allows users (employees, managers, or administrators) to manage tasks, update progress, and 
+ keep track of deadlines, ensuring seamless task management within an organization.
+
+It includes features such as authentication, CRUD operations, and more. It can be used as an employment management system to help companies track tasks, employees' work progress, and deadlines in an efficient and organized manner.
+
+
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/navyamala-utivelly-172828287)  
+💼 [LinkedIn]  https://www.linkedin.com/in/navyamala-utivelly-172828287 )  
 💻 [Portfolio Website](#) (Coming soon...)  
 📧 Email: ramshyamutivelly@gmail.com  
 
