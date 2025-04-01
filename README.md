@@ -14,8 +14,6 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Fronte
 🛠️ **Tools & Platforms:** Git, GitHub, Postman, Firebase  
 ⚡ **Other Skills:** REST APIs, Authentication (JWT, OAuth), Web Performance Optimization  
 
-
-
 ---
 
 ## 📌 Featured Projects  
