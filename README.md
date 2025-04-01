@@ -7,12 +7,14 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Fronte
 ---
 
 ## 🛠️ Tech Stack  
-💻 **Languages:** JavaScript, HTML, CSS, Python  
+💻 **Languages:** JavaScript, HTML, CSS, Python                                  
 🌐 **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap  
 🚀 **Backend:** Node.js, Express.js  
 📦 **Databases:** MongoDB, MySQL  
 🛠️ **Tools & Platforms:** Git, GitHub, Postman, Firebase  
 ⚡ **Other Skills:** REST APIs, Authentication (JWT, OAuth), Web Performance Optimization  
+
+
 
 ---
 
