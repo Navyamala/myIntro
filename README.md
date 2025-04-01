@@ -19,12 +19,14 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Fronte
 ## 📌 Featured Projects  
 ### **1. A Simple Static Event  Website** 🛒  
 
-- Welcome to the **Event Website** repository! This is a simple static website created to showcase an event. It contains essential event details such as the event name, date, time, location, and a registration form for participants. The website is built using **HTML** and **CSS** to ensure responsiveness and a user-friendly design.
+- Welcome to the **Event Website** repository! This is a simple static website created to showcase an event. The website is built using **HTML** and **CSS** to ensure responsiveness and a user-friendly design.
 ## Technologies Used
 - **HTML:** For the structure of the webpage.
 - **CSS:** For styling and making the site visually appealing.
 - **Responsive Design:** Ensured the layout is mobile-friendly using CSS media queries.
-- 
+- **Bootstrap:** Used for a clean and responsive design. It provides a carousel component to display slides of images or content (like events, announcements, etc.).
+
+ 
 
 ### **2. Task Manager App(Employment mangaement System)** ✅  
 - A **full-stack task manager** built with **MERN Stack (MongoDB, Express, React, Node.js,Mysql,Html,css)**  
